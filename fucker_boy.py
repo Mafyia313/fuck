@@ -1,6 +1,6 @@
 #----------------------------------------
-# Compile : Mr-Naib
-# Facebook : Mr Naib
+# Compile :
+# Facebook : 
 # Github  : https://github.com/Mafyia313
 #----------------------------------------
 import marshal
